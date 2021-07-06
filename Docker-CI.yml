@@ -5,3 +5,6 @@ trigger:
  
 pool:
   vmImage: 'ubuntu-latest'
+
+variables:
+  ImageName: 'wolfgangofner/microservicedemo:$(Build.BuildId)'
