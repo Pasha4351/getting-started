@@ -8,7 +8,7 @@ pool:
   vmImage: 'ubuntu-latest'
 
 variables:
-  ImageName: '/pavelkostin/getting-started:$(Build.BuildId)'
+  ImageName: '/Pasha4351/getting-started:$(Build.BuildId)'
 
 stages:
 - stage: Build
