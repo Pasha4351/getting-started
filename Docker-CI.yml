@@ -6,3 +6,4 @@ trigger:
  
 pool:
   vmImage: 'ubuntu-latest'
+я
